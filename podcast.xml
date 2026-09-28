@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Ambient Daily Generator</title>
+    <link>https://metaloxgit.github.io/ambient-podcast</link>
+    <description>Génération musicale quotidienne automatisée.</description>
+    <language>fr-fr</language>
+    <item>
+      <title>Ambient Session - Czarface et Frankie Pulitzer - Czarface Meets Frankie Pulitzer : Avis album vinyle</title>
+      <description>Morceau du jour inspiré par l'article : 'Czarface et Frankie Pulitzer - Czarface Meets Frankie Pulitzer : Avis album vinyle'.
+Lien de l'article : https://vinyles.musique360.fr/2026/09/czarface-et-frankie-pulitzer-czarface.html
+
+-----------------------------------------
+💿 VOUS AIMEZ CETTE AMBIANCE ? DÉCOUVREZ NOS EDITIONS PHYSIQUES EN VINYLE &amp; CD !
+Découvrez notre catalogue limité et profitez de -15% sur votre commande avec le code promo 'PODCAST15'.
+👉 Visiter la boutique : https://www.cdandlp.com/liste/?lng=1&amp;seller=201145&amp;affilie=DIKSAMIS
+-----------------------------------------</description>
+      <pubDate>Mon, 28 Sep 2026 12:24:34 GMT</pubDate>
+      <guid>https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-28.wav</guid>
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-28.wav" length="10584044" type="audio/wav" />
+    </item>
+  </channel>
+</rss>
