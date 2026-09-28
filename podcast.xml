@@ -5,6 +5,11 @@
     <link>https://metaloxgit.github.io/ambient-podcast</link>
     <description>Daily automated generative ambient soundscapes.</description>
     <language>en-us</language>
+    <itunes:author>Ambient Generator Studio</itunes:author>
+    <itunes:owner>
+      <itunes:name>Ambient Generator Studio</itunes:name>
+      <itunes:email>votre-email@example.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
     <item>
       <title>Ambient Session - Czarface et Frankie Pulitzer - Czarface Meets Frankie Pulitzer : Avis album vinyle</title>
@@ -16,8 +21,9 @@ Original Article Link: https://vinyles.musique360.fr/2026/09/czarface-et-frankie
 Check out our limited catalogue and get 15% off your order with the promo code 'PODCAST15'.
 👉 Visit the shop: https://www.cdandlp.com/liste/?lng=1&amp;seller=201145&amp;affilie=DIKSAMIS
 -----------------------------------------</description>
-      <pubDate>Mon, 28 Sep 2026 13:37:55 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 14:00:04 GMT</pubDate>
       <guid>https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-28.wav</guid>
+      <itunes:author>Ambient Generator Studio</itunes:author>
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-28.wav" length="10584044" type="audio/wav" />
     </item>
