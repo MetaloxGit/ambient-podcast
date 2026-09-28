@@ -3,20 +3,22 @@
   <channel>
     <title>Ambient Daily Generator</title>
     <link>https://metaloxgit.github.io/ambient-podcast</link>
-    <description>Génération musicale quotidienne automatisée.</description>
-    <language>fr-fr</language>
+    <description>Daily automated generative ambient soundscapes.</description>
+    <language>en-us</language>
+    <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
     <item>
       <title>Ambient Session - Czarface et Frankie Pulitzer - Czarface Meets Frankie Pulitzer : Avis album vinyle</title>
-      <description>Morceau du jour inspiré par l'article : 'Czarface et Frankie Pulitzer - Czarface Meets Frankie Pulitzer : Avis album vinyle'.
-Lien de l'article : https://vinyles.musique360.fr/2026/09/czarface-et-frankie-pulitzer-czarface.html
+      <description>Daily soundscape inspired by the article: 'Czarface et Frankie Pulitzer - Czarface Meets Frankie Pulitzer : Avis album vinyle'.
+Original Article Link: https://vinyles.musique360.fr/2026/09/czarface-et-frankie-pulitzer-czarface.html
 
 -----------------------------------------
-💿 VOUS AIMEZ CETTE AMBIANCE ? DÉCOUVREZ NOS EDITIONS PHYSIQUES EN VINYLE &amp; CD !
-Découvrez notre catalogue limité et profitez de -15% sur votre commande avec le code promo 'PODCAST15'.
-👉 Visiter la boutique : https://www.cdandlp.com/liste/?lng=1&amp;seller=201145&amp;affilie=DIKSAMIS
+💿 LOVE THIS AMBIENCE? EXPLORE OUR PHYSICAL VINYL &amp; CD EDITIONS!
+Check out our limited catalogue and get 15% off your order with the promo code 'PODCAST15'.
+👉 Visit the shop: https://www.cdandlp.com/liste/?lng=1&amp;seller=201145&amp;affilie=DIKSAMIS
 -----------------------------------------</description>
-      <pubDate>Mon, 28 Sep 2026 12:24:34 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 13:37:55 GMT</pubDate>
       <guid>https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-28.wav</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-28.wav" length="10584044" type="audio/wav" />
     </item>
   </channel>
