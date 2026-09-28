@@ -6,10 +6,7 @@
     <description>Daily automated generative ambient soundscapes.</description>
     <language>en-us</language>
     <itunes:author>Zikaebo</itunes:author>
-    <itunes:owner>
-      <itunes:name>Ambient Generator Studio</itunes:name>
-      <itunes:email>example@example.example</itunes:email>
-    </itunes:owner>
+
     <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
     <item>
       <title>Ambient Session - Czarface et Frankie Pulitzer - Czarface Meets Frankie Pulitzer : Avis album vinyle</title>
