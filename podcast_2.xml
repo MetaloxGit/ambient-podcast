@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Microgroove Drift</title>
+    <link>https://metaloxgit.github.io/ambient-podcast</link>
+    <description>Daily ambient soundscapes and music commentary for focus &amp; relaxation.</description>
+    <language>en-us</language>
+    <itunes:author>Zikaebo</itunes:author>
+    <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+    <item>
+      <title>Serene Flow — Ambient Soundscape for Deep Work</title>
+      <description>✨ Ambient Soundscape: SERENE FLOW
+🎧 Style: Ambient Soundscape for Deep Work
+
+Welcome to today's generative audio session. This soundscape was procedurally crafted for deep concentration, meditation, or relaxation.
+
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS: EXPLORE OUR VINYL &amp; CASSETTE CATALOGUE!
+Get 15% OFF physical releases with promo code 'PODCAST15'.
+👉 Official store: https://www.cdandlp.com/liste/?lng=1&amp;seller=201145&amp;affilie=DIKSAMIS
+-----------------------------------------</description>
+      <pubDate>Tue, 29 Sep 2026 07:57:13 GMT</pubDate>
+      <guid>https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-29.mp3</guid>
+      <itunes:author>Zikaebo</itunes:author>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-29.mp3" length="13897395" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
