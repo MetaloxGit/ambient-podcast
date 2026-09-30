@@ -5,9 +5,11 @@
     <link>https://metaloxgit.github.io/ambient-podcast</link>
     <description>Evolving Sonic Drift, Atmospheric Synth, Electronic Soundscapes &amp; Experimental Frequencies.</description>
     <language>en-us</language>
-    <itunes:owner>
+    <ns0:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+    <ns0:owner>
       <ns0:name>Zikaebo</ns0:name>
-    </itunes:owner>
+    </ns0:owner>
+    <ns0:explicit>no</ns0:explicit>
     <item>
       <title>Floating Cascade — Deep Harmonic Pad Drift &amp; Warm Tones</title>
       <description>✨ Sound Exploration: FLOATING CASCADE
@@ -22,10 +24,11 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
 👉 Official store: https://shop.musique360.fr
 🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
 -----------------------------------------</description>
-      <pubDate>Wed, 30 Sep 2026 09:00:10 GMT</pubDate>
+      <pubDate>Wed, 30 Sep 2026 09:40:40 GMT</pubDate>
       <guid>https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-30.mp3</guid>
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-30.mp3" length="14137513" type="audio/mpeg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-30.mp3" length="12241650" type="audio/mpeg" />
     </item>
+    <ns0:category text="Music" />
   </channel>
 </rss>
