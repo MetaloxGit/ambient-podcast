@@ -1,32 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Microgroove Drift</title>
     <link>https://metaloxgit.github.io/ambient-podcast</link>
-    <description>Daily ambient soundscapes and music commentary for focus &amp; relaxation.</description>
+    <description>Evolving Sonic Drift, Atmospheric Synth, Electronic Soundscapes &amp; Experimental Frequencies.</description>
     <language>en-us</language>
-    
-
-
-    <itunes:author>Zikaebo</itunes:author>
-    <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+    <itunes:owner>
+      <ns0:name>Zikaebo</ns0:name>
+    </itunes:owner>
     <item>
-      <title>Serene Flow — Ambient Soundscape for Deep Work</title>
-      <description>✨ Ambient Soundscape: SERENE FLOW
-🎧 Style: Ambient Soundscape for Deep Work
+      <title>Floating Cascade — Deep Harmonic Pad Drift &amp; Warm Tones</title>
+      <description>✨ Sound Exploration: FLOATING CASCADE
+🎧 Sound Profile: Ethereal Warm Pads &amp; Harmonic Soundscapes
+🌌 Atmosphere: Deep Harmonic Pad Drift &amp; Warm Tones
 
-Welcome to today's generative audio session. This soundscape was procedurally crafted for deep concentration, meditation, or relaxation.
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to accompany deep focus, creative sessions, or immersive listening.
 
 -----------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS: EXPLORE OUR VINYL &amp; CASSETTE CATALOGUE!
-Get 15% OFF physical releases with promo code 'PODCAST15'.
-👉 Official store: https://lc.cx/1s4T-2
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
 -----------------------------------------</description>
-      <pubDate>Tue, 29 Sep 2026 07:57:13 GMT</pubDate>
-      <guid>https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-29.mp3</guid>
-      <itunes:author>Zikaebo</itunes:author>
+      <pubDate>Wed, 30 Sep 2026 09:00:10 GMT</pubDate>
+      <guid>https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-30.mp3</guid>
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-29.mp3" length="13897395" type="audio/mpeg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-09-30.mp3" length="14137513" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
