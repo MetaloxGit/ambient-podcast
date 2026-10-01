@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Microgroove Drift</title>
     <link>https://metaloxgit.github.io/ambient-podcast</link>
     <description>Evolving Sonic Drift, Atmospheric Synth, Electronic Soundscapes &amp; Experimental Frequencies.</description>
     <language>en-us</language>
-    <ns0:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-    <ns0:owner>
-      <ns0:name>Zikaebo</ns0:name>
-    </ns0:owner>
-    <ns0:explicit>no</ns0:explicit>
+    <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>Zikaebo</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
     <item>
       <title>Radiant Sunset — Retro Synthwave Pulse &amp; Analog Melody</title>
       <description>✨ Sound Exploration: RADIANT SUNSET
