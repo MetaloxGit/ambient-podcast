@@ -1,20 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Microgroove Drift</title>
     <link>https://metaloxgit.github.io/ambient-podcast</link>
     <description>Evolving Sonic Drift, Atmospheric Synth, Electronic Soundscapes &amp; Experimental Frequencies.</description>
     <language>en-us</language>
     <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+    <image>
+      <url>https://metaloxgit.github.io/ambient-podcast/cover.jpg</url>
+      <title>Microgroove Drift</title>
+      <link>https://metaloxgit.github.io/ambient-podcast</link>
+    </image>
     <itunes:owner>
       <itunes:name>Zikaebo</itunes:name>
+      <itunes:email>metaloxgit@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Music" />
     <item>
-      <title>Radiant Sunset — Retro Synthwave Pulse &amp; Analog Melody</title>
-      <description>✨ Sound Exploration: RADIANT SUNSET
-🎧 Sound Profile: Synthwave, Cyberpop &amp; Retro Pulse
-🌌 Atmosphere: Retro Synthwave Pulse &amp; Analog Melody
+      <title>Nocturne Groove — Smooth Seventh Chords &amp; Warm Vinyl Texture</title>
+      <description>✨ Sound Exploration: NOCTURNE GROOVE
+🎧 Sound Profile: Smooth Jazz Chords &amp; Lo-Fi Texture
+🌌 Atmosphere: Smooth Seventh Chords &amp; Warm Vinyl Texture
 
 Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to accompany deep focus, creative sessions, or immersive listening.
 
@@ -24,11 +31,10 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
 👉 Official store: https://shop.musique360.fr
 🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
 -----------------------------------------</description>
-      <pubDate>Thu, 01 Oct 2026 09:04:44 GMT</pubDate>
-      <guid>https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-01.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 05:04:05 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-02.mp3</guid>
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-01.mp3" length="13825297" type="audio/mpeg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-02.mp3" length="16801376" type="audio/mpeg" />
     </item>
-    <ns0:category text="Music" />
   </channel>
 </rss>
