@@ -12,16 +12,16 @@
       <link>https://metaloxgit.github.io/ambient-podcast</link>
     </image>
     <itunes:owner>
-      <itunes:name>Zikaebo</itunes:name>
+      <itunes:name>Microgroove Drift</itunes:name>
       <itunes:email>metaloxgit@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
-      <title>Nocturne Groove — Smooth Seventh Chords &amp; Warm Vinyl Texture</title>
-      <description>✨ Sound Exploration: NOCTURNE GROOVE
-🎧 Sound Profile: Smooth Jazz Chords &amp; Lo-Fi Texture
-🌌 Atmosphere: Smooth Seventh Chords &amp; Warm Vinyl Texture
+      <title>Fally Ipupa - XX  Avis album vinyle — Atmospheric Harmonic Resonance</title>
+      <description>✨ Sound Exploration: FALLY IPUPA - XX  AVIS ALBUM VINYLE
+🎧 Sound Profile: Ethereal Neoclassical
+🌌 Atmosphere: Atmospheric Harmonic Resonance
 
 Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to accompany deep focus, creative sessions, or immersive listening.
 
@@ -31,10 +31,10 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
 👉 Official store: https://shop.musique360.fr
 🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
 -----------------------------------------</description>
-      <pubDate>Fri, 02 Oct 2026 05:04:05 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-02.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 07:08:21 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-03.mp3</guid>
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-02.mp3" length="16801376" type="audio/mpeg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-03.mp3" length="14929337" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
