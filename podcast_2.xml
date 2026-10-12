@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Microgroove Drift</title>
+    <link>https://metaloxgit.github.io/ambient-podcast</link>
+    <description>Evolving Sonic Drift, Atmospheric Synth, Electronic Soundscapes &amp; Experimental Frequencies.</description>
+    <language>en-us</language>
+    <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+    <image>
+      <url>https://metaloxgit.github.io/ambient-podcast/cover.jpg</url>
+      <title>Microgroove Drift</title>
+      <link>https://metaloxgit.github.io/ambient-podcast</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Microgroove Drift</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Music" />
+    <item>
+      <title>Outlaw Riot — Disobedient Frequency &amp; Glass Noise</title>
+      <description>✨ Sound Exploration: OUTLAW RIOT
+🎧 Sound Profile: Dark Synth Punk
+🌌 Atmosphere: Disobedient Frequency &amp; Glass Noise
+
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, electro-punk / metal-inspired soundscape.
+
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Mon, 12 Oct 2026 09:20:42 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-12.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-12.mp3" length="12097454" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
