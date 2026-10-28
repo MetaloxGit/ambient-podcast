@@ -17,6 +17,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>The Charred Forest of Ponderous Studs</title>
+      <description>✨ Sound Exploration: THE CHARRED FOREST OF PONDEROUS STUDS
+🎧 Sound Profile: Crust Punk
+🌌 Atmosphere: Dirty Crust Punk Soundscape &amp; Hardcore Breakdowns · 169 BPM · F Harmonic Minor
+
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
+
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Wed, 28 Oct 2026 13:29:56 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-28.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-28.mp3" length="16506715" type="audio/mpeg" />
+      <itunes:duration>687</itunes:duration>
+    </item>
+    <item>
       <title>Ash Fog Upon the Bitter Endless Desert</title>
       <description>✨ Sound Exploration: ASH FOG UPON THE BITTER ENDLESS DESERT
 🎧 Sound Profile: Black Metal
@@ -275,25 +295,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-15.mp3" length="18323583" type="audio/mpeg" />
       <itunes:duration>763</itunes:duration>
-    </item>
-    <item>
-      <title>Shadow Noir — Raw Signal in the Midnight Alley</title>
-      <description>✨ Sound Exploration: SHADOW NOIR
-🎧 Sound Profile: Dark Synth Punk
-🌌 Atmosphere: Raw Signal in the Midnight Alley
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, electro-punk / metal-inspired soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Wed, 14 Oct 2026 12:19:55 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-14.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-14.mp3" length="24184207" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
