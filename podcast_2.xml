@@ -17,6 +17,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Quiet Warriors in E Minor</title>
+      <description>✨ Sound Exploration: QUIET WARRIORS IN E MINOR
+🎧 Sound Profile: Medieval Folk Metal
+🌌 Atmosphere: Epic Folk Metal Celebration &amp; Dark Ambient Layers · 123 BPM · E Minor
+
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
+
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Fri, 30 Oct 2026 13:29:34 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-30.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-30.mp3" length="12133190" type="audio/mpeg" />
+      <itunes:duration>505</itunes:duration>
+    </item>
+    <item>
       <title>B Phrygian Siege Beneath the Pale Mountain</title>
       <description>✨ Sound Exploration: B PHRYGIAN SIEGE BENEATH THE PALE MOUNTAIN
 🎧 Sound Profile: Death Metal
@@ -275,26 +295,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-17.mp3" length="25170382" type="audio/mpeg" />
       <itunes:duration>1048</itunes:duration>
-    </item>
-    <item>
-      <title>Vandal Noir — Street Pulse &amp; Neon Breakdown</title>
-      <description>✨ Sound Exploration: VANDAL NOIR
-🎧 Sound Profile: Dark Synth Punk
-🌌 Atmosphere: Street Pulse &amp; Neon Breakdown
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Fri, 16 Oct 2026 07:43:15 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-16.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-16.mp3" length="20100955" type="audio/mpeg" />
-      <itunes:duration>837</itunes:duration>
     </item>
   </channel>
 </rss>
