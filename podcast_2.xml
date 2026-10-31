@@ -17,6 +17,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Ghosts of the Vinyl in the Steel-Plated Machine Hall</title>
+      <description>✨ Sound Exploration: GHOSTS OF THE VINYL IN THE STEEL-PLATED MACHINE HALL
+🎧 Sound Profile: Lo-Fi Ambient Drift
+🌌 Atmosphere: Cyberpunk Electro-Punk Soundscape &amp; Heavy Machine Rhythms · 103 BPM · A Phrygian Dominant
+
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
+
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Sat, 31 Oct 2026 13:01:08 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-31.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-31.mp3" length="13367005" type="audio/mpeg" />
+      <itunes:duration>556</itunes:duration>
+    </item>
+    <item>
       <title>Quiet Warriors in E Minor</title>
       <description>✨ Sound Exploration: QUIET WARRIORS IN E MINOR
 🎧 Sound Profile: Medieval Folk Metal
@@ -275,26 +295,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-18.mp3" length="24735913" type="audio/mpeg" />
       <itunes:duration>1030</itunes:duration>
-    </item>
-    <item>
-      <title>Neon Riot — Raw Circuit Riot</title>
-      <description>✨ Sound Exploration: NEON RIOT
-🎧 Sound Profile: Dark Synth Punk
-🌌 Atmosphere: Raw Circuit Riot
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Sat, 17 Oct 2026 11:09:01 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-17.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-17.mp3" length="25170382" type="audio/mpeg" />
-      <itunes:duration>1048</itunes:duration>
     </item>
   </channel>
 </rss>
