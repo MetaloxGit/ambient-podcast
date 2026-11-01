@@ -17,6 +17,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>D Harmonic Minor Frenzy for the Haunted Velvet Chamber</title>
+      <description>✨ Sound Exploration: D HARMONIC MINOR FRENZY FOR THE HAUNTED VELVET CHAMBER
+🎧 Sound Profile: Industrial Metal
+🌌 Atmosphere: Industrial Electro-Metal Textures &amp; Dark Ambient Layers · 160 BPM · D Harmonic Minor
+
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
+
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Sun, 01 Nov 2026 13:45:53 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-01.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-01.mp3" length="23941582" type="audio/mpeg" />
+      <itunes:duration>997</itunes:duration>
+    </item>
+    <item>
       <title>Ghosts of the Vinyl in the Steel-Plated Machine Hall</title>
       <description>✨ Sound Exploration: GHOSTS OF THE VINYL IN THE STEEL-PLATED MACHINE HALL
 🎧 Sound Profile: Lo-Fi Ambient Drift
@@ -275,26 +295,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-19.mp3" length="20723505" type="audio/mpeg" />
       <itunes:duration>863</itunes:duration>
-    </item>
-    <item>
-      <title>Vandal Noir — Street Pulse &amp; Neon Breakdown</title>
-      <description>✨ Sound Exploration: VANDAL NOIR
-🎧 Sound Profile: Dark Synth Punk
-🌌 Atmosphere: Street Pulse &amp; Neon Breakdown
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Sun, 18 Oct 2026 11:40:08 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-18.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-18.mp3" length="24735913" type="audio/mpeg" />
-      <itunes:duration>1030</itunes:duration>
     </item>
   </channel>
 </rss>
