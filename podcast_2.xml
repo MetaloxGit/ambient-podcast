@@ -17,6 +17,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Silent Snow Upon the Hollow Endless Desert</title>
+      <description>✨ Sound Exploration: SILENT SNOW UPON THE HOLLOW ENDLESS DESERT
+🎧 Sound Profile: Doom Metal
+🌌 Atmosphere: Crushing Funeral Doom Atmospheres &amp; Dark Ambient Layers · 60 BPM · G# Minor
+
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
+
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Mon, 02 Nov 2026 16:30:30 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-02.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-02.mp3" length="12193376" type="audio/mpeg" />
+      <itunes:duration>508</itunes:duration>
+    </item>
+    <item>
       <title>D Harmonic Minor Frenzy for the Haunted Velvet Chamber</title>
       <description>✨ Sound Exploration: D HARMONIC MINOR FRENZY FOR THE HAUNTED VELVET CHAMBER
 🎧 Sound Profile: Industrial Metal
@@ -275,26 +295,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-20.mp3" length="22334111" type="audio/mpeg" />
       <itunes:duration>930</itunes:duration>
-    </item>
-    <item>
-      <title>Data Streams of the Binary Subway Maze</title>
-      <description>✨ Sound Exploration: DATA STREAMS OF THE BINARY SUBWAY MAZE
-🎧 Sound Profile: Dark Synth Punk
-🌌 Atmosphere: Dystopian Synth Atmospheres &amp; Distorted Steel Textures · 82 BPM · F# Harmonic Minor
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Mon, 19 Oct 2026 12:26:25 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-19.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-19.mp3" length="20723505" type="audio/mpeg" />
-      <itunes:duration>863</itunes:duration>
     </item>
   </channel>
 </rss>
