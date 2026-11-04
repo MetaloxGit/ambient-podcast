@@ -17,6 +17,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>The Radioactive City of Pale Engines</title>
+      <description>✨ Sound Exploration: THE RADIOACTIVE CITY OF PALE ENGINES
+🎧 Sound Profile: Death Metal
+🌌 Atmosphere: Blast-Beat Death Metal Heaviness &amp; Blast Beat Storms · 199 BPM · G# Locrian
+
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
+
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Wed, 04 Nov 2026 14:51:49 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-04.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-04.mp3" length="12496187" type="audio/mpeg" />
+      <itunes:duration>520</itunes:duration>
+    </item>
+    <item>
       <title>Blazing Skyline of Ash, Golden Gas Masks</title>
       <description>✨ Sound Exploration: BLAZING SKYLINE OF ASH, GOLDEN GAS MASKS
 🎧 Sound Profile: Heavy Metal
@@ -275,26 +295,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-22.mp3" length="24849389" type="audio/mpeg" />
       <itunes:duration>1035</itunes:duration>
-    </item>
-    <item>
-      <title>C Minor Ritual Through the Orbital Station</title>
-      <description>✨ Sound Exploration: C MINOR RITUAL THROUGH THE ORBITAL STATION
-🎧 Sound Profile: Lo-Fi Ambient Drift
-🌌 Atmosphere: Downtempo Cyber Noir Textures &amp; Distorted Steel Textures · 115 BPM · C Minor
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Wed, 21 Oct 2026 07:27:11 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-21.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-21.mp3" length="18233304" type="audio/mpeg" />
-      <itunes:duration>759</itunes:duration>
     </item>
   </channel>
 </rss>
