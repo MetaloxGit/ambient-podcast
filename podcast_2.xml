@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Ballad of Restless Wings</title>
+      <description>✨ Sound Exploration: BALLAD OF RESTLESS WINGS
+🎧 Sound Profile: Heavy Metal
+🌌 Atmosphere: Heavy Metal-Inspired Riff Soundscape &amp; Twin Lead Guitars · 128 BPM · D Dorian
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Sun, 08 Nov 2026 13:50:07 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-08.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-08.mp3" length="19478403" type="audio/mpeg" />
+      <itunes:duration>811</itunes:duration>
+    </item>
+    <item>
       <title>Coffins of the Forged Orbital Station</title>
       <description>✨ Sound Exploration: COFFINS OF THE FORGED ORBITAL STATION
 🎧 Sound Profile: Zen Pentatonic Meditation
@@ -271,26 +289,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-26.mp3" length="24500811" type="audio/mpeg" />
       <itunes:duration>1020</itunes:duration>
-    </item>
-    <item>
-      <title>The Stormy Coast of Winter Comets</title>
-      <description>✨ Sound Exploration: THE STORMY COAST OF WINTER COMETS
-🎧 Sound Profile: Speed Metal
-🌌 Atmosphere: Speed Metal-Inspired High-Velocity Riffs &amp; Twin-Guitar Harmonies · 218 BPM · D Minor
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Sun, 25 Oct 2026 10:33:35 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-25.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-25.mp3" length="19378721" type="audio/mpeg" />
-      <itunes:duration>807</itunes:duration>
     </item>
   </channel>
 </rss>
