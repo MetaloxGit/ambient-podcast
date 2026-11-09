@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Lonely Implants in C# Minor</title>
+      <description>✨ Sound Exploration: LONELY IMPLANTS IN C# MINOR
+🎧 Sound Profile: Glitch Noise Art
+🌌 Atmosphere: Gothic Darkwave Atmospheres &amp; Electro-Punk Pulse · 128 BPM · C# Minor
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Mon, 09 Nov 2026 16:49:42 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-09.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-09.mp3" length="11881786" type="audio/mpeg" />
+      <itunes:duration>495</itunes:duration>
+    </item>
+    <item>
       <title>Ballad of Restless Wings</title>
       <description>✨ Sound Exploration: BALLAD OF RESTLESS WINGS
 🎧 Sound Profile: Heavy Metal
@@ -269,26 +287,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-27.mp3" length="18927325" type="audio/mpeg" />
       <itunes:duration>788</itunes:duration>
-    </item>
-    <item>
-      <title>Bones Dissolving in the Ash Fog</title>
-      <description>✨ Sound Exploration: BONES DISSOLVING IN THE ASH FOG
-🎧 Sound Profile: Dungeon Synth
-🌌 Atmosphere: Dungeon Synth-Inspired Medieval Soundscape &amp; Flute and Fiddle Melodies · 75 BPM · F Harmonic Minor
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Mon, 26 Oct 2026 13:56:29 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-26.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-26.mp3" length="24500811" type="audio/mpeg" />
-      <itunes:duration>1020</itunes:duration>
     </item>
   </channel>
 </rss>
