@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Hammers Burning Beneath the Triumphant Squat</title>
+      <description>✨ Sound Exploration: HAMMERS BURNING BENEATH THE TRIUMPHANT SQUAT
+🎧 Sound Profile: Punk Rock
+🌌 Atmosphere: Three-Chord Punk Rock Fury &amp; Steel Choruses · 164 BPM · A Major
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Thu, 12 Nov 2026 09:15:45 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-12.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-12.mp3" length="21775507" type="audio/mpeg" />
+      <itunes:duration>907</itunes:duration>
+    </item>
+    <item>
       <title>G Dorian Vigil Beneath the Graveyard Gate</title>
       <description>✨ Sound Exploration: G DORIAN VIGIL BENEATH THE GRAVEYARD GATE
 🎧 Sound Profile: Industrial Metal
@@ -265,26 +283,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-29.mp3" length="28276863" type="audio/mpeg" />
       <itunes:duration>1178</itunes:duration>
-    </item>
-    <item>
-      <title>The Charred Forest of Ponderous Studs</title>
-      <description>✨ Sound Exploration: THE CHARRED FOREST OF PONDEROUS STUDS
-🎧 Sound Profile: Crust Punk
-🌌 Atmosphere: Dirty Crust Punk Soundscape &amp; Hardcore Breakdowns · 169 BPM · F Harmonic Minor
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Wed, 28 Oct 2026 13:29:56 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-28.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-28.mp3" length="16506715" type="audio/mpeg" />
-      <itunes:duration>687</itunes:duration>
     </item>
   </channel>
 </rss>
