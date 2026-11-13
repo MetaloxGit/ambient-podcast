@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Ghosts of the Vinyl in the Heavy Barren Yard</title>
+      <description>✨ Sound Exploration: GHOSTS OF THE VINYL IN THE HEAVY BARREN YARD
+🎧 Sound Profile: Crust Punk
+🌌 Atmosphere: Dirty Crust Punk Soundscape &amp; Funeral Tempos · 146 BPM · G Phrygian
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Fri, 13 Nov 2026 14:53:19 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-13.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-13.mp3" length="17012026" type="audio/mpeg" />
+      <itunes:duration>708</itunes:duration>
+    </item>
+    <item>
       <title>Hammers Burning Beneath the Triumphant Squat</title>
       <description>✨ Sound Exploration: HAMMERS BURNING BENEATH THE TRIUMPHANT SQUAT
 🎧 Sound Profile: Punk Rock
@@ -263,26 +281,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-30.mp3" length="12133190" type="audio/mpeg" />
       <itunes:duration>505</itunes:duration>
-    </item>
-    <item>
-      <title>B Phrygian Siege Beneath the Pale Mountain</title>
-      <description>✨ Sound Exploration: B PHRYGIAN SIEGE BENEATH THE PALE MOUNTAIN
-🎧 Sound Profile: Death Metal
-🌌 Atmosphere: Low-Tuned Death Metal Chaos &amp; Thrashing Solos · 178 BPM · B Phrygian
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Thu, 29 Oct 2026 13:40:34 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-29.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-29.mp3" length="28276863" type="audio/mpeg" />
-      <itunes:duration>1178</itunes:duration>
     </item>
   </channel>
 </rss>
