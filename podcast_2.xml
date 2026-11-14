@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Riders Charging Beyond the Crimson Hall of Legends</title>
+      <description>✨ Sound Exploration: RIDERS CHARGING BEYOND THE CRIMSON HALL OF LEGENDS
+🎧 Sound Profile: Heavy Metal
+🌌 Atmosphere: Twin-Guitar Heavy Metal Anthems &amp; Gothic Atmosphere · 132 BPM · F# Harmonic Minor
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Sat, 14 Nov 2026 13:46:21 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-14.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-14.mp3" length="12553238" type="audio/mpeg" />
+      <itunes:duration>522</itunes:duration>
+    </item>
+    <item>
       <title>Ghosts of the Vinyl in the Heavy Barren Yard</title>
       <description>✨ Sound Exploration: GHOSTS OF THE VINYL IN THE HEAVY BARREN YARD
 🎧 Sound Profile: Crust Punk
@@ -261,26 +279,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-31.mp3" length="13367005" type="audio/mpeg" />
       <itunes:duration>556</itunes:duration>
-    </item>
-    <item>
-      <title>Quiet Warriors in E Minor</title>
-      <description>✨ Sound Exploration: QUIET WARRIORS IN E MINOR
-🎧 Sound Profile: Medieval Folk Metal
-🌌 Atmosphere: Epic Folk Metal Celebration &amp; Dark Ambient Layers · 123 BPM · E Minor
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Fri, 30 Oct 2026 13:29:34 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-30.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-30.mp3" length="12133190" type="audio/mpeg" />
-      <itunes:duration>505</itunes:duration>
     </item>
   </channel>
 </rss>
