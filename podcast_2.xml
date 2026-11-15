@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>The Vinyl Charge of the Abandoned Pit</title>
+      <description>✨ Sound Exploration: THE VINYL CHARGE OF THE ABANDONED PIT
+🎧 Sound Profile: Death Metal
+🌌 Atmosphere: Brutal Death Metal Soundscape &amp; Industrial Noise · 184 BPM · C Minor
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Sun, 15 Nov 2026 14:17:30 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-15.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-15.mp3" length="24181698" type="audio/mpeg" />
+      <itunes:duration>1007</itunes:duration>
+    </item>
+    <item>
       <title>Riders Charging Beyond the Crimson Hall of Legends</title>
       <description>✨ Sound Exploration: RIDERS CHARGING BEYOND THE CRIMSON HALL OF LEGENDS
 🎧 Sound Profile: Heavy Metal
@@ -259,26 +277,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-01.mp3" length="23941582" type="audio/mpeg" />
       <itunes:duration>997</itunes:duration>
-    </item>
-    <item>
-      <title>Ghosts of the Vinyl in the Steel-Plated Machine Hall</title>
-      <description>✨ Sound Exploration: GHOSTS OF THE VINYL IN THE STEEL-PLATED MACHINE HALL
-🎧 Sound Profile: Lo-Fi Ambient Drift
-🌌 Atmosphere: Cyberpunk Electro-Punk Soundscape &amp; Heavy Machine Rhythms · 103 BPM · A Phrygian Dominant
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Sat, 31 Oct 2026 13:01:08 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-31.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-10-31.mp3" length="13367005" type="audio/mpeg" />
-      <itunes:duration>556</itunes:duration>
     </item>
   </channel>
 </rss>
