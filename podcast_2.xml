@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Vinyl and Silence Exploding Beyond the Hollow Mountain</title>
+      <description>✨ Sound Exploration: VINYL AND SILENCE EXPLODING BEYOND THE HOLLOW MOUNTAIN
+🎧 Sound Profile: Doom Metal
+🌌 Atmosphere: Fuzz-Drenched Doom Metal &amp; Ancient Synth Pads · 60 BPM · G# Phrygian
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Tue, 17 Nov 2026 16:27:07 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-17.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-17.mp3" length="20641375" type="audio/mpeg" />
+      <itunes:duration>860</itunes:duration>
+    </item>
+    <item>
       <title>Drifting Ravens in G# Dorian</title>
       <description>✨ Sound Exploration: DRIFTING RAVENS IN G# DORIAN
 🎧 Sound Profile: Medieval Folk Metal
@@ -255,26 +273,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-03.mp3" length="13755080" type="audio/mpeg" />
       <itunes:duration>573</itunes:duration>
-    </item>
-    <item>
-      <title>Silent Snow Upon the Hollow Endless Desert</title>
-      <description>✨ Sound Exploration: SILENT SNOW UPON THE HOLLOW ENDLESS DESERT
-🎧 Sound Profile: Doom Metal
-🌌 Atmosphere: Crushing Funeral Doom Atmospheres &amp; Dark Ambient Layers · 60 BPM · G# Minor
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Mon, 02 Nov 2026 16:30:30 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-02.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-02.mp3" length="12193376" type="audio/mpeg" />
-      <itunes:duration>508</itunes:duration>
     </item>
   </channel>
 </rss>
