@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Vinyl Protocol Raging Within the Furious Smoking Battlefield</title>
+      <description>✨ Sound Exploration: VINYL PROTOCOL RAGING WITHIN THE FURIOUS SMOKING BATTLEFIELD
+🎧 Sound Profile: Speed Metal
+🌌 Atmosphere: Twin-Lead Speed Metal &amp; Anthemic Riffs · 208 BPM · F# Minor
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Wed, 18 Nov 2026 15:57:40 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-18.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-18.mp3" length="16130550" type="audio/mpeg" />
+      <itunes:duration>672</itunes:duration>
+    </item>
+    <item>
       <title>Vinyl and Silence Exploding Beyond the Hollow Mountain</title>
       <description>✨ Sound Exploration: VINYL AND SILENCE EXPLODING BEYOND THE HOLLOW MOUNTAIN
 🎧 Sound Profile: Doom Metal
@@ -253,26 +271,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-04.mp3" length="12496187" type="audio/mpeg" />
       <itunes:duration>520</itunes:duration>
-    </item>
-    <item>
-      <title>Blazing Skyline of Ash, Golden Gas Masks</title>
-      <description>✨ Sound Exploration: BLAZING SKYLINE OF ASH, GOLDEN GAS MASKS
-🎧 Sound Profile: Heavy Metal
-🌌 Atmosphere: Heavy Metal-Inspired Riff Soundscape &amp; Fast Palm-Muted Chugs · 117 BPM · F# Harmonic Minor
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Tue, 03 Nov 2026 14:38:17 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-03.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-03.mp3" length="13755080" type="audio/mpeg" />
-      <itunes:duration>573</itunes:duration>
     </item>
   </channel>
 </rss>
