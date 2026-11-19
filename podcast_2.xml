@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Silent Snow Across the Sacred Server Farm</title>
+      <description>✨ Sound Exploration: SILENT SNOW ACROSS THE SACRED SERVER FARM
+🎧 Sound Profile: Hardcore Punk
+🌌 Atmosphere: Hardcore Punk-Inspired Assault &amp; Dystopian Beats · 202 BPM · E Phrygian
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Thu, 19 Nov 2026 16:01:12 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-19.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-19.mp3" length="26883177" type="audio/mpeg" />
+      <itunes:duration>1120</itunes:duration>
+    </item>
+    <item>
       <title>Vinyl Protocol Raging Within the Furious Smoking Battlefield</title>
       <description>✨ Sound Exploration: VINYL PROTOCOL RAGING WITHIN THE FURIOUS SMOKING BATTLEFIELD
 🎧 Sound Profile: Speed Metal
@@ -251,26 +269,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-05.mp3" length="11546375" type="audio/mpeg" />
       <itunes:duration>481</itunes:duration>
-    </item>
-    <item>
-      <title>The Radioactive City of Pale Engines</title>
-      <description>✨ Sound Exploration: THE RADIOACTIVE CITY OF PALE ENGINES
-🎧 Sound Profile: Death Metal
-🌌 Atmosphere: Blast-Beat Death Metal Heaviness &amp; Blast Beat Storms · 199 BPM · G# Locrian
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Wed, 04 Nov 2026 14:51:49 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-04.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-04.mp3" length="12496187" type="audio/mpeg" />
-      <itunes:duration>520</itunes:duration>
     </item>
   </channel>
 </rss>
