@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>A Dorian Rampage Across the Squat</title>
+      <description>✨ Sound Exploration: A DORIAN RAMPAGE ACROSS THE SQUAT
+🎧 Sound Profile: Hardcore Punk
+🌌 Atmosphere: Hardcore Punk-Inspired Assault &amp; Sludgy Breakdowns · 215 BPM · A Dorian
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Fri, 20 Nov 2026 16:08:35 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-20.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-20.mp3" length="24417427" type="audio/mpeg" />
+      <itunes:duration>1017</itunes:duration>
+    </item>
+    <item>
       <title>Silent Snow Across the Sacred Server Farm</title>
       <description>✨ Sound Exploration: SILENT SNOW ACROSS THE SACRED SERVER FARM
 🎧 Sound Profile: Hardcore Punk
@@ -249,26 +267,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-06.mp3" length="17742410" type="audio/mpeg" />
       <itunes:duration>739</itunes:duration>
-    </item>
-    <item>
-      <title>Signal, Machine and the Mourning Barbed Wire</title>
-      <description>✨ Sound Exploration: SIGNAL, MACHINE AND THE MOURNING BARBED WIRE
-🎧 Sound Profile: Crust Punk
-🌌 Atmosphere: Apocalyptic Crust Punk Noise &amp; Monolithic Grooves · 178 BPM · C Phrygian
-
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial metal / electro-gothic soundscape.
-
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Thu, 05 Nov 2026 14:57:16 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-05.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-05.mp3" length="11546375" type="audio/mpeg" />
-      <itunes:duration>481</itunes:duration>
     </item>
   </channel>
 </rss>
