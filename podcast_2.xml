@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>D Minor Ceremony Through the Chrome Highway</title>
+      <description>✨ Sound Exploration: D MINOR CEREMONY THROUGH THE CHROME HIGHWAY
+🎧 Sound Profile: Heavy Metal
+🌌 Atmosphere: Steel-Forged Heavy Metal &amp; Thrashing Solos · 112 BPM · D Minor
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Sat, 21 Nov 2026 14:55:41 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-21.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-21.mp3" length="24984807" type="audio/mpeg" />
+      <itunes:duration>1040</itunes:duration>
+    </item>
+    <item>
       <title>A Dorian Rampage Across the Squat</title>
       <description>✨ Sound Exploration: A DORIAN RAMPAGE ACROSS THE SQUAT
 🎧 Sound Profile: Hardcore Punk
@@ -249,24 +267,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-07.mp3" length="27067497" type="audio/mpeg" />
       <itunes:duration>1127</itunes:duration>
-    </item>
-    <item>
-      <title>Cogs Rising in the Dead Signal</title>
-      <description>✨ Sound Exploration: COGS RISING IN THE DEAD SIGNAL
-🎧 Sound Profile: Glitch Noise Art
-🌌 Atmosphere: Mechanical Metal-Inspired Rhythms &amp; Gothic Atmosphere · 100 BPM · G Phrygian Dominant
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Fri, 06 Nov 2026 14:35:11 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-06.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-06.mp3" length="17742410" type="audio/mpeg" />
-      <itunes:duration>739</itunes:duration>
     </item>
   </channel>
 </rss>
