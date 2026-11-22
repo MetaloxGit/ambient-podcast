@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Vinyl Protocol Collapsing Among the Apocalyptic Bomb Shelter</title>
+      <description>✨ Sound Exploration: VINYL PROTOCOL COLLAPSING AMONG THE APOCALYPTIC BOMB SHELTER
+🎧 Sound Profile: Crust Punk
+🌌 Atmosphere: Apocalyptic Crust Punk Noise &amp; Fast Pit Energy · 150 BPM · E Phrygian
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Sun, 22 Nov 2026 14:52:27 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-22.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-22.mp3" length="19142991" type="audio/mpeg" />
+      <itunes:duration>797</itunes:duration>
+    </item>
+    <item>
       <title>D Minor Ceremony Through the Chrome Highway</title>
       <description>✨ Sound Exploration: D MINOR CEREMONY THROUGH THE CHROME HIGHWAY
 🎧 Sound Profile: Heavy Metal
@@ -249,24 +267,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-08.mp3" length="19478403" type="audio/mpeg" />
       <itunes:duration>811</itunes:duration>
-    </item>
-    <item>
-      <title>Coffins of the Forged Orbital Station</title>
-      <description>✨ Sound Exploration: COFFINS OF THE FORGED ORBITAL STATION
-🎧 Sound Profile: Zen Pentatonic Meditation
-🌌 Atmosphere: Dark Ambient Gothic Electronics &amp; Heavy Machine Rhythms · 93 BPM · C Dorian
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Sat, 07 Nov 2026 13:30:23 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-07.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-07.mp3" length="27067497" type="audio/mpeg" />
-      <itunes:duration>1127</itunes:duration>
     </item>
   </channel>
 </rss>
