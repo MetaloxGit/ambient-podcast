@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>The Wind Uprising of the Furious Squat</title>
+      <description>✨ Sound Exploration: THE WIND UPRISING OF THE FURIOUS SQUAT
+🎧 Sound Profile: Punk Rock
+🌌 Atmosphere: Three-Chord Punk Rock Fury &amp; Dystopian Beats · 178 BPM · G Major
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Mon, 23 Nov 2026 18:43:27 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-23.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-23.mp3" length="18588150" type="audio/mpeg" />
+      <itunes:duration>774</itunes:duration>
+    </item>
+    <item>
       <title>Vinyl Protocol Collapsing Among the Apocalyptic Bomb Shelter</title>
       <description>✨ Sound Exploration: VINYL PROTOCOL COLLAPSING AMONG THE APOCALYPTIC BOMB SHELTER
 🎧 Sound Profile: Crust Punk
@@ -249,24 +267,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-09.mp3" length="11881786" type="audio/mpeg" />
       <itunes:duration>495</itunes:duration>
-    </item>
-    <item>
-      <title>Ballad of Restless Wings</title>
-      <description>✨ Sound Exploration: BALLAD OF RESTLESS WINGS
-🎧 Sound Profile: Heavy Metal
-🌌 Atmosphere: Heavy Metal-Inspired Riff Soundscape &amp; Twin Lead Guitars · 128 BPM · D Dorian
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Sun, 08 Nov 2026 13:50:07 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-08.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-08.mp3" length="19478403" type="audio/mpeg" />
-      <itunes:duration>811</itunes:duration>
     </item>
   </channel>
 </rss>
