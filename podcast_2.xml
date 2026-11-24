@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Pipes of the Armored Sunken Temple</title>
+      <description>✨ Sound Exploration: PIPES OF THE ARMORED SUNKEN TEMPLE
+🎧 Sound Profile: Medieval Folk Metal
+🌌 Atmosphere: Tavern-Ready Folk Metal &amp; Lute and Flute Melodies · 141 BPM · F# Dorian
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Tue, 24 Nov 2026 18:15:09 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-24.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-24.mp3" length="17284118" type="audio/mpeg" />
+      <itunes:duration>720</itunes:duration>
+    </item>
+    <item>
       <title>The Wind Uprising of the Furious Squat</title>
       <description>✨ Sound Exploration: THE WIND UPRISING OF THE FURIOUS SQUAT
 🎧 Sound Profile: Punk Rock
@@ -249,24 +267,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-10.mp3" length="21965470" type="audio/mpeg" />
       <itunes:duration>915</itunes:duration>
-    </item>
-    <item>
-      <title>Lonely Implants in C# Minor</title>
-      <description>✨ Sound Exploration: LONELY IMPLANTS IN C# MINOR
-🎧 Sound Profile: Glitch Noise Art
-🌌 Atmosphere: Gothic Darkwave Atmospheres &amp; Electro-Punk Pulse · 128 BPM · C# Minor
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Mon, 09 Nov 2026 16:49:42 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-09.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-09.mp3" length="11881786" type="audio/mpeg" />
-      <itunes:duration>495</itunes:duration>
     </item>
   </channel>
 </rss>
