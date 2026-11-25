@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Echoes of the Relic Across the Fast Rooftop</title>
+      <description>✨ Sound Exploration: ECHOES OF THE RELIC ACROSS THE FAST ROOFTOP
+🎧 Sound Profile: Hardcore Punk
+🌌 Atmosphere: Fast Hardcore Punk Energy &amp; Electro-Punk Pulse · 187 BPM · D# Minor
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Wed, 25 Nov 2026 17:35:46 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-25.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-25.mp3" length="26152167" type="audio/mpeg" />
+      <itunes:duration>1089</itunes:duration>
+    </item>
+    <item>
       <title>Pipes of the Armored Sunken Temple</title>
       <description>✨ Sound Exploration: PIPES OF THE ARMORED SUNKEN TEMPLE
 🎧 Sound Profile: Medieval Folk Metal
@@ -249,24 +267,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-12.mp3" length="21775507" type="audio/mpeg" />
       <itunes:duration>907</itunes:duration>
-    </item>
-    <item>
-      <title>G Dorian Vigil Beneath the Graveyard Gate</title>
-      <description>✨ Sound Exploration: G DORIAN VIGIL BENEATH THE GRAVEYARD GATE
-🎧 Sound Profile: Industrial Metal
-🌌 Atmosphere: Dark Ambient Gothic Electronics &amp; Distorted Steel Textures · 91 BPM · G Dorian
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Tue, 10 Nov 2026 15:13:42 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-10.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-10.mp3" length="21965470" type="audio/mpeg" />
-      <itunes:duration>915</itunes:duration>
     </item>
   </channel>
 </rss>
