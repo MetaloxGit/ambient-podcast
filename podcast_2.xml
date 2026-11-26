@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Quiet Fast Lane, Dim Skulls</title>
+      <description>✨ Sound Exploration: QUIET FAST LANE, DIM SKULLS
+🎧 Sound Profile: Thrash Metal
+🌌 Atmosphere: Thrash Metal-Inspired Riff Assault &amp; Blast Beats · 194 BPM · E Minor
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Thu, 26 Nov 2026 17:17:11 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-26.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-26.mp3" length="24326521" type="audio/mpeg" />
+      <itunes:duration>1013</itunes:duration>
+    </item>
+    <item>
       <title>Echoes of the Relic Across the Fast Rooftop</title>
       <description>✨ Sound Exploration: ECHOES OF THE RELIC ACROSS THE FAST ROOFTOP
 🎧 Sound Profile: Hardcore Punk
@@ -249,24 +267,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-13.mp3" length="17012026" type="audio/mpeg" />
       <itunes:duration>708</itunes:duration>
-    </item>
-    <item>
-      <title>Hammers Burning Beneath the Triumphant Squat</title>
-      <description>✨ Sound Exploration: HAMMERS BURNING BENEATH THE TRIUMPHANT SQUAT
-🎧 Sound Profile: Punk Rock
-🌌 Atmosphere: Three-Chord Punk Rock Fury &amp; Steel Choruses · 164 BPM · A Major
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Thu, 12 Nov 2026 09:15:45 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-12.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-12.mp3" length="21775507" type="audio/mpeg" />
-      <itunes:duration>907</itunes:duration>
     </item>
   </channel>
 </rss>
