@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Velvet Arrows in E Harmonic Minor</title>
+      <description>✨ Sound Exploration: VELVET ARROWS IN E HARMONIC MINOR
+🎧 Sound Profile: Heavy Metal
+🌌 Atmosphere: Heavy Metal-Inspired Riff Soundscape &amp; Galloping Riffs · 120 BPM · E Harmonic Minor
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Fri, 27 Nov 2026 16:58:26 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-27.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-27.mp3" length="24474479" type="audio/mpeg" />
+      <itunes:duration>1019</itunes:duration>
+    </item>
+    <item>
       <title>Quiet Fast Lane, Dim Skulls</title>
       <description>✨ Sound Exploration: QUIET FAST LANE, DIM SKULLS
 🎧 Sound Profile: Thrash Metal
@@ -249,24 +267,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-14.mp3" length="12553238" type="audio/mpeg" />
       <itunes:duration>522</itunes:duration>
-    </item>
-    <item>
-      <title>Ghosts of the Vinyl in the Heavy Barren Yard</title>
-      <description>✨ Sound Exploration: GHOSTS OF THE VINYL IN THE HEAVY BARREN YARD
-🎧 Sound Profile: Crust Punk
-🌌 Atmosphere: Dirty Crust Punk Soundscape &amp; Funeral Tempos · 146 BPM · G Phrygian
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Fri, 13 Nov 2026 14:53:19 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-13.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-13.mp3" length="17012026" type="audio/mpeg" />
-      <itunes:duration>708</itunes:duration>
     </item>
   </channel>
 </rss>
