@@ -17,6 +17,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music" />
     <item>
+      <title>Dirge for the Medieval Forest Clearing</title>
+      <description>✨ Sound Exploration: DIRGE FOR THE MEDIEVAL FOREST CLEARING
+🎧 Sound Profile: Dungeon Synth
+🌌 Atmosphere: Lo-Fi Dungeon Synth Journeys &amp; Tavern Rhythms · 80 BPM · C Minor
+Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
+-----------------------------------------
+💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
+Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
+👉 Official store: https://shop.musique360.fr
+🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
+-----------------------------------------</description>
+      <pubDate>Sat, 28 Nov 2026 15:48:59 GMT</pubDate>
+      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-28.mp3</guid>
+      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
+      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-28.mp3" length="20953590" type="audio/mpeg" />
+      <itunes:duration>873</itunes:duration>
+    </item>
+    <item>
       <title>Velvet Arrows in E Harmonic Minor</title>
       <description>✨ Sound Exploration: VELVET ARROWS IN E HARMONIC MINOR
 🎧 Sound Profile: Heavy Metal
@@ -249,24 +267,6 @@ Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and 
       <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
       <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-15.mp3" length="24181698" type="audio/mpeg" />
       <itunes:duration>1007</itunes:duration>
-    </item>
-    <item>
-      <title>Riders Charging Beyond the Crimson Hall of Legends</title>
-      <description>✨ Sound Exploration: RIDERS CHARGING BEYOND THE CRIMSON HALL OF LEGENDS
-🎧 Sound Profile: Heavy Metal
-🌌 Atmosphere: Twin-Guitar Heavy Metal Anthems &amp; Gothic Atmosphere · 132 BPM · F# Harmonic Minor
-Welcome to today's generative audio exploration on Microgroove Drift. This original composition was procedurally synthesized today to match the emotional texture of the latest RSS signal and transform it into a focused, cinematic, cyberpunk / industrial / electro-gothic soundscape.
------------------------------------------
-💿 PHYSICAL MEDIA COLLECTORS &amp; ANALOGUE ENTHUSIASTS:
-Do you love physical records? Explore our analogue &amp; ambient vinyl, CD, and cassette stock!
-👉 Official store: https://shop.musique360.fr
-🎁 Get 15% OFF physical releases with promo code 'PODCAST15'
------------------------------------------</description>
-      <pubDate>Sat, 14 Nov 2026 13:46:21 GMT</pubDate>
-      <guid isPermaLink="true">https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-14.mp3</guid>
-      <itunes:image href="https://metaloxgit.github.io/ambient-podcast/cover.jpg" />
-      <enclosure url="https://metaloxgit.github.io/ambient-podcast/ambient_2026-11-14.mp3" length="12553238" type="audio/mpeg" />
-      <itunes:duration>522</itunes:duration>
     </item>
   </channel>
 </rss>
